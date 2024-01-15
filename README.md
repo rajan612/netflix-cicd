@@ -1,4 +1,3 @@
 # netflix-cicd
 
-**
-Welcome to the netflix-cicd repo setup.
+## Welcome to the netflix-cicd repo setup.
